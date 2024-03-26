@@ -1,4 +1,4 @@
-Project Title YouTube Data Harvesting and Warehousing using SQL, MongoDB and Streamlit
+Project Title YouTube Data Harvesting and Warehousing using MySQL, Python and Streamlit
 
 Problem Statement: 
 The problem statement is to create a Streamlit application that allows users to access and analyze datas of multiple YouTube channels. 
